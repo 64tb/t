@@ -96,13 +96,13 @@ The customer has confirmed their address.
 
 The customer has contacted us again about their delayed parcel, which still hasn't been delivered. Please look into it and deliver the parcel as soon as possible.
 
+I am afraid you cannot expedite the delivery for tomorrow, even with an additional payment. There is no option available to accelerate the delivery process.
 
+I am afraid you cannot expedite the delivery for today. There is no option available to accelerate the delivery process.
 
+As we have delivered the parcel to the correct address, and you have not received it, you will need to contact the sender regarding this matter.
 
-
-
-
-
+As we have delivered the parcel to the correct address and provided you with proof of delivery, you will need to contact the sender regarding this matter if you have not received it.
 
 
 
