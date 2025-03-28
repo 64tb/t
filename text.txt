@@ -104,8 +104,9 @@ As we have delivered the parcel to the correct address, and you have not receive
 
 As we have delivered the parcel to the correct address and provided you with proof of delivery, you will need to contact the sender regarding this matter if you have not received it.
 
+The parcel is currently in sortation, and more than 48 hours have passed without an update. Kindly follow the MPP.
 
-
+The customer has confirmed their address as correct. The parcel is delayed and has not been delivered. The estimated delivery date has elapsed. Kindly deliver the parcel as soon as possible and keep the customer updated.
 
 
 
