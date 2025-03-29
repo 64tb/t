@@ -114,13 +114,38 @@ We deliver from Monday to Saturday, from 7am until 9pm.
 
 Thank you for your patience. Upon inspection, I can confirm that your parcel is an international shipment, and there are additional procedures we must follow for such parcels. This sometimes results in extra time being required.
 
-Your parcel has not yet arrived in the Yodel network locally. We can only provide you with the estimated delivery date once we receive the parcel. Kindly contact the sender for further assistance.
+Thank you for your patience. Upon checking, I can confirm that your parcel has not yet arrived in the Yodel network locally. We can only provide you with the estimated delivery date once we receive the parcel. 
 
 I am afraid you cannot expedite the delivery for tomorrow, even with an additional payment. There is no option available to accelerate the delivery process.
 
 Thank you for your patience. Upon inspection, I can confirm that your parcel is safe and sound. However, to proceed further, we require additional information from the sender. We have contacted the sender, but they have not responded. Kindly contact the sender directly.
 
 Our parcel is currently on hold. However, to proceed further, we require additional information from the sender.
+
+Thank you for your patience. I can see that your parcel is delayed and has not been delivered yet. I apologise for the inconvenience. I am raising your concern with the relevant team. They will investigate this issue and get back to you via your registered email within 24 hours.
+
+According to the latest update, your parcel was delivered to the correct address. The geo coordinates are Latitude: ~, Longitude: ~. I have also shared the proof of delivery with you. If you have not yet received the parcel, please contact the sender for further assistance.
+
+You can choose to collect your parcel from the depot using the Yodel mobile app.
+
+I apologise for the inconvenience. The delay may be due to various factors such as high demand, logistical challenges, or unforeseen circumstances affecting the delivery process. Unfortunately, there has been no specific update on the system. Please understand that your parcel is scheduled for delivery today. Kindly wait until the end of the day for its arrival.
+
+You may contact the sender from the platform where you ordered the parcel.
+
+Kindly contact the sender for further assistance.
+
+Your parcel is currently at the depot and will soon be out for delivery. 
+
+Thank you for your patience. Upon inspection, I can confirm that your parcel has been returned to the sender. Kindly contact the sender for further assistance.
+
+I understand, but I can only assist you based on the information available in our system.
+
+I understand. International deliveries typically require additional time due to customs and other procedures. Depending on the service used, it can take anywhere from a few days to a couple of weeks.
+
+
+
+
+
 
 
 
