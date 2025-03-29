@@ -118,7 +118,9 @@ Your parcel has not yet arrived in the Yodel network locally. We can only provid
 
 I am afraid you cannot expedite the delivery for tomorrow, even with an additional payment. There is no option available to accelerate the delivery process.
 
+Thank you for your patience. Upon inspection, I can confirm that your parcel is safe and sound. However, to proceed further, we require additional information from the sender. We have contacted the sender, but they have not responded. Kindly contact the sender directly.
 
+Our parcel is currently on hold. However, to proceed further, we require additional information from the sender.
 
 
 
