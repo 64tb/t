@@ -171,3 +171,23 @@ Please do not worry; you will be notified as soon as the parcel is ready for col
 What3words is a geocoding system that divides the world into 3-metre squares, assigning each square a unique combination of three words. This allows for precise location identification, which can be particularly useful for navigation, deliveries, and emergency services.
 
 Thank you for your patience. I can see that your parcel is delayed and has not been delivered yet. I apologise for the inconvenience. I am rearranging your parcel's delivery for tomorrow.
+
+We have previously delivered parcels to the address; however, the driver was unable to locate the address this time. Kindly look into this matter.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
