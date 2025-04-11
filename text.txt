@@ -180,7 +180,7 @@ The parcel was not available in the store when the driver attempted to collect i
 
 The customer has contacted us again. Please look into this matter and ensure the parcel is delivered as soon as possible. Kindly keep the customer updated.
 
-
+No collection attempt has been made. Kindly look into this matter and ensure the parcel is collected as soon as possible.
 
 
 
