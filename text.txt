@@ -216,6 +216,7 @@ As per the update in the system, the driver was not able to locate the address.
 
 Thank you for your patience. Upon checking, I can see that your parcel was out for delivery yesterday, but it was not delivered. I apologise for that. Upon review, I can confirm that your parcel is scheduled to be delivered today. Please wait until the end of the day for its arrival. You will be notified with the 2-hour delivery window as soon as the parcel is out for delivery. If you have any further questions or concerns, please feel free to let me know.
 
+The parcel was not available in the store when the customer attempted to collect it. Kindly look into it and deliver the parcel as soon as possible.
 
 
 
