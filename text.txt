@@ -218,7 +218,7 @@ Thank you for your patience. Upon checking, I can see that your parcel was out f
 
 The parcel was not available in the store when the customer attempted to collect it. Kindly look into it and deliver the parcel as soon as possible.
 
-
+That is not the correct tracking ID. Could you please share the correct tracking ID of that parcel?
 
 
 
