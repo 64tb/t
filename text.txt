@@ -220,5 +220,38 @@ The parcel was not available in the store when the customer attempted to collect
 
 That is not the correct tracking ID. Could you please share the correct tracking ID of that parcel?
 
+Could you please share the receiver's correct name and postcode?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
