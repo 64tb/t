@@ -1,1 +1,3 @@
 
+office holdings : if pod is non-attended when it is attended delivery, simply ACCEPT.
+No need of client query for damaged scans.
