@@ -4,8 +4,12 @@ No need of client query for damaged scans.
 
 Greetings of the day,
 
-The claim has been accepted for £~, as the parcel was confirmed lost within the Yodel network.
+The claim has been accepted for £~, as the parcel was lost within the Yodel network.
 
 The claim has been rejected, as the parcel has been returned to the sender.
 
+As per the investigation, the claim has been accepted for £50.
+
+
 Regards,
+Vicky
