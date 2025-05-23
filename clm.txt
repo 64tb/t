@@ -28,6 +28,8 @@ A NFS has been raised; therefore, the claim is currently pending.
 
 TICKET:
 
+The POD is also non-compliant, as there is no visible recipient accepting the parcel.
+
 The parcel has been marked as delivered; however, upon reviewing the scans, I have observed that the geo-codes are broken. Kindly investigate this issue further and provide an update regarding the parcel’s exact location.
 
 
