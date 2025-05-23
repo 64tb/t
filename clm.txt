@@ -15,6 +15,9 @@ As per the investigation, the claim has been rejected, as the parcel was success
 The claim has been rejected, as the parcel was successfully delivered to the customer.
 
 
+TICKET:
+
+The parcel has been marked as delivered; however, upon reviewing the scans, I have observed that the geo-codes are broken. Kindly investigate this issue further and provide an update regarding the parcel’s exact location.
 
 
 
