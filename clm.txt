@@ -17,6 +17,13 @@ The claim has been rejected, as the parcel was successfully delivered to the cus
 We have reached out to the Service Verification Centre (SVC) for further clarification regarding this matter. Please allow us up to 7 days to complete our enquiries and provide a detailed response.
 
 
+INTERNAL NOTE : 
+
+A DI has been raised; therefore, the claim is currently pending.
+
+A NFS has been raised; therefore, the claim is currently pending.
+
+
 TICKET:
 
 The parcel has been marked as delivered; however, upon reviewing the scans, I have observed that the geo-codes are broken. Kindly investigate this issue further and provide an update regarding the parcel’s exact location.
