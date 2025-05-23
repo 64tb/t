@@ -8,6 +8,8 @@ Greetings of the day,
 
 The claim has been accepted for £~, as the parcel was lost within the Yodel network.
 
+The claim has been accepted for £~, as there was no trace of the parcel within the SVC.
+
 The claim has been rejected, as the parcel has been returned to the sender.
 
 As per the investigation, the claim has been accepted for £50.
