@@ -1,6 +1,8 @@
 
 office holdings : if pod is non-attended when it is attended delivery, simply ACCEPT.
 No need of client query for damaged scans.
+For redirecting to sortation select "Lost in yodel network"
+For losing it in SVC select "No trace in SVC"
 
 Greetings of the day,
 
