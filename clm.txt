@@ -10,6 +10,10 @@ Greetings of the day,
 
 The claim has been accepted for £~, as the parcel was lost within the Yodel network.
 
+The claim has been accepted for £~, as the parcel was damaged within the Yodel network.
+
+The claim has been accepted for £~, as the parcel was damaged upon delivery.
+
 The claim has been accepted for £~, as there was no trace of the parcel within the SVC.
 
 The claim has been rejected, as the parcel has been returned to the sender.
@@ -26,6 +30,9 @@ We have reached out to the Service Verification Centre (SVC) for further clarifi
 
 We kindly request that you provide the lost disclaimer form within 10 days to proceed with the claim process. Please note that failure to submit the form within this timeframe will result in the claim being rejected.
 
+There is no visible evidence of damage. Kindly provide actual proof of the damage in order for us to proceed. This evidence must be submitted within 10 days; failure to do so will result in the claim being rejected.
+
+
 INTERNAL NOTE : 
 
 Reallocate to Hatfield Sort.
@@ -33,6 +40,8 @@ Reallocate to Hatfield Sort.
 Reallocate to Wednesbury Sort.
 
 We require LDR; therefore, the claim is currently pending.
+
+We require an actual proof of the damage, as there is no visible evidence of damage in the provided Images; therefore, the claim is currently pending.
 
 The claim has been rejected, as the parcel has been returned to the sender.
 
