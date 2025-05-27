@@ -29,6 +29,8 @@ Reallocate to Hatfield Sort.
 
 Reallocate to Wednesbury Sort.
 
+The claim has been rejected, as the parcel has been returned to the sender.
+
 Parcel was last scanned at Store. Reallocate to Paypoint.
 
 DI has been raised; therefore, the claim is currently pending.
