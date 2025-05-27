@@ -40,6 +40,8 @@ The POD is also non-compliant, as there is no visible recipient accepting the pa
 
 The parcel has been marked as delivered; however, upon reviewing the scans, I have observed that the geo-codes are broken. Kindly investigate this issue further and provide an update regarding the parcel’s exact location.
 
+The parcel has been marked as delivered; however, upon reviewing the POD, it appears that the parcel was left unattended. Kindly investigate this matter further and provide an update regarding the parcel’s precise location.
+
 There has been no update regarding the parcel since ~. Kindly investigate this matter and provide an update at your earliest convenience.
 
 
