@@ -23,9 +23,15 @@ We have reached out to the Service Verification Centre (SVC) for further clarifi
 
 INTERNAL NOTE : 
 
-A DI has been raised; therefore, the claim is currently pending.
+Reallocate to Hatfield Sort.
 
-A NFS has been raised; therefore, the claim is currently pending.
+Reallocate to Wednesbury Sort.
+
+Parcel was last scanned at Store. Reallocate to Paypoint.
+
+DI has been raised; therefore, the claim is currently pending.
+
+NFS has been raised; therefore, the claim is currently pending.
 
 
 TICKET:
