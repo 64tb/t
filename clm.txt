@@ -47,7 +47,7 @@ We require an actual proof of the damage, as there is no visible evidence of dam
 
 The claim has been rejected, as the parcel has been returned to the sender.
 
-Parcel was last scanned at Store. Reallocate to Paypoint.
+Parcel was last scanned at Store.
 
 DI has been raised; therefore, the claim is currently pending.
 
