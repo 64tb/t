@@ -24,6 +24,8 @@ As per the investigation, the claim has been accepted for £50.
 
 As per the investigation, the claim has been rejected, as the parcel was successfully delivered to the customer.
 
+As per the investigation, the parcel has been returned to the sender. Please check with your warehouse team. Hence, the claim has been rejected.
+
 The claim has been rejected, as the parcel was successfully delivered to the customer.
 
 We have reached out to the Service Verification Centre (SVC) for further clarification regarding this matter. Please allow us up to 7 days to complete our enquiries and provide a detailed response.
