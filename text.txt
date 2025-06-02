@@ -238,6 +238,7 @@ The parcel is not in your name and is not addressed to you. Kindly look into thi
 
 I have arranged for the parcel to be delivered tomorrow. Kindly wait until the end of the day for it to be delivered.
 
+The parcel was not available in the store when the customer attempted to collect it. Upon reviewing the scans, I have noted that the "Parcel scanned into store" scan is missing. Kindly look into this matter and keep the customer updated.
 
 
 
