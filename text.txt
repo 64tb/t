@@ -190,8 +190,6 @@ Thank you for your patience. Upon inspection, I can confirm that your parcel has
 
 Please understand that we need the sender's input to proceed further with the parcel's delivery. I would request you to contact the sender regarding this.
 
-If you have any further questions or concerns, please feel free to let me know.
-
 That is the information available in the system. I can only assist you based on the information available in our system.
 
 I apologise for the inconvenience. I cannot promise you a specific time of delivery until the 2-hour window is generated.
@@ -242,6 +240,7 @@ The parcel was not available in the store when the customer attempted to collect
 
 Could you please let me know what changes you would like to make to your delivery options?
 
+If you have any further questions or concerns, please feel free to let me know.
 
 
 
