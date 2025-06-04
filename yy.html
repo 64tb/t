@@ -1,0 +1,126 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>gamma</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    .snippet-group {
+      max-width: 600px;
+      margin: 0 auto;
+    }
+
+    .copy-container {
+      display: flex;
+      align-items: center;
+      margin-bottom: 15px;
+      background: #f1f1f1;
+      padding: 10px;
+      border-radius: 5px;
+    }
+
+    .copy-btn {
+      background: none;
+      border: none;
+      cursor: pointer;
+      margin-right: 10px;
+    }
+
+    .copy-icon {
+      width: 24px;
+      height: 24px;
+      fill: #333;
+    }
+
+    .snippet-text {
+      margin: 0;
+    }
+  </style>
+
+  <script>
+    document.addEventListener("DOMContentLoaded", function () {
+      const correctPassword = "yourPassword123"; // Change this to your desired password
+      const userPassword = prompt("Enter the password to access this page:");
+
+      if (userPassword !== correctPassword) {
+        document.body.innerHTML = "<h2 style='text-align:center; margin-top:20%;'>Access Denied</h2>";
+      }
+    });
+  </script>
+</head>
+<body>
+
+  <!-- SVG Icons -->
+  <svg style="display: none;">
+    <symbol id="copy-icon" viewBox="0 0 24 24">
+      <path fill="currentColor" d="M19 21H8V7h11m0-2H8a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2m-3-4H4a2 2 0 0 0-2 2v14h2V3h12V1z"/>
+    </symbol>
+    <symbol id="check-icon" viewBox="0 0 24 24">
+      <path fill="currentColor" d="M21 7L9 19l-5.5-5.5 1.41-1.41L9 16.17 19.59 5.59 21 7z"/>
+    </symbol>
+  </svg>
+
+  <h1>Ticket Raise</h1>
+
+  <div class="snippet-group">
+    <div class="copy-container">
+      <button class="copy-btn" aria-label="Copy text">
+        <svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg>
+      </button>
+      <p class="snippet-text">Hi team, Customer email :</p>
+    </div>
+
+    <div class="copy-container">
+      <button class="copy-btn" aria-label="Copy text">
+        <svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg>
+      </button>
+      <p class="snippet-text">Kindly look into this matter and keep the customer updated.</p>
+    </div>
+
+    <div class="copy-container">
+      <button class="copy-btn" aria-label="Copy text">
+        <svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg>
+      </button>
+      <p class="snippet-text">Kindly look into it and deliver the parcel as soon as possible.</p>
+    </div>
+
+    <div class="copy-container">
+      <button class="copy-btn" aria-label="Copy text">
+        <svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg>
+      </button>
+      <p class="snippet-text">The customer contacted us regarding their previously raised concern. I informed them that their issue is being investigated by the relevant team and that they will be contacted via email.</p>
+    </div>
+  </div>
+
+  <script>
+    document.querySelectorAll('.copy-btn').forEach(button => {
+      button.addEventListener('click', (e) => {
+        const text = e.currentTarget.closest('.copy-container').querySelector('.snippet-text').textContent;
+        const icon = button.querySelector('use');
+        const originalIcon = icon.getAttribute('xlink:href');
+
+        navigator.clipboard.writeText(text).then(() => {
+          icon.setAttribute('xlink:href', '#check-icon');
+          setTimeout(() => {
+            icon.setAttribute('xlink:href', originalIcon);
+          }, 2000);
+        }).catch(err => {
+          console.error('Failed to copy text:', err);
+        });
+      });
+    });
+  </script>
+
+</body>
+</html>
