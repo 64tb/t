@@ -250,7 +250,8 @@ Thank you for your patience. Upon inspection, I can confirm that the estimated d
 
 
 
-
+--------------------------
+Just to confirm, are we connected?
 
 
 
