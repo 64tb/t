@@ -254,6 +254,7 @@ Regarding compensation, eligibility typically depends on the service level and t
 
 Thank you for your patience. I can confirm that your parcel has been delayed and has not yet been collected. Please rest assured that I am escalating your concern to the appropriate team. They will investigate the matter and provide you with an update within 24 hours, ensuring that your parcel is collected as soon as possible.
 
+Thank you for your patience. Upon inspection, I can confirm that the estimated delivery date for your parcel is ~, so I kindly ask that you wait until then for its arrival. If you have any further questions or concerns, please feel free to let me know.
 --------------------------
 Just to confirm, are we connected?
 
