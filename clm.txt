@@ -55,6 +55,10 @@ Reallocate to Hatfield Sort.
 
 Reallocate to Wednesbury Sort.
 
+Arrived Damaged from Hatfield Sort
+
+Arrived Damaged from Wednesbury Sort
+
 We require proof of cost; therefore, the claim is currently pending.
 
 We require LDR; therefore, the claim is currently pending.
