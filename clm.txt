@@ -31,6 +31,8 @@ As per the investigation, the parcel has been returned to the sender. Please che
 
 The claim has been rejected, as the parcel was successfully delivered to the customer.
 
+As per the investigation, the parcel was damaged in the Yodel network. Therefore, the claim has been rejected.
+
 We have reached out to the Service Verification Centre (SVC) for further clarification regarding this matter. Please allow us up to 7 days to complete our enquiries and provide a detailed response.
 
 We kindly request that you provide the lost disclaimer form within 10 days to proceed with the claim process. Please note that failure to submit the form within this timeframe will result in the claim being rejected.
@@ -62,6 +64,8 @@ We require an actual proof of the damage, as there is no visible evidence of dam
 The claim has been rejected, as the parcel has been returned to the sender.
 
 Parcel was last scanned at Store.
+
+The parcel was damaged in the Yodel network. Therefore, the claim has been rejected.
 
 DI has been raised; therefore, the claim is currently pending.
 
