@@ -93,6 +93,8 @@ The parcel has been marked as delivered; however, upon reviewing the scans, I ha
 
 The parcel has been marked as delivered; however, upon reviewing the POD, it appears that the parcel was left unattended. Kindly investigate this matter further and provide an update regarding the parcel’s precise location.
 
+According to the tracking information, the parcel was marked as not collected. However, the store team has confirmed that it was picked up by the driver. Kindly investigate this matter and provide the accurate status of the parcel.
+
 There has been no update regarding the parcel since ~. Kindly investigate this matter and provide an update at your earliest convenience.
 
 
