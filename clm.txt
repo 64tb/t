@@ -58,6 +58,8 @@ Following the investigation, the claim has been declined, as the parcel was succ
 Following our re-investigation, we found no scan or record indicating that the parcel was damaged in transit.
 As we have not received any supporting documentation or proof of damage, we are unable to proceed further with this claim. Therefore, the claim has been rejected.
 
+The claim is currently pending further scans as part of our ongoing investigation. Therefore, this claim is on hold for 10 days.
+
 INTERNAL NOTE : 
 
 Reallocate to Hatfield Sort.
@@ -73,6 +75,8 @@ We require proof of cost; therefore, the claim is currently pending.
 We require LDR; therefore, the claim is currently pending.
 
 We require an actual proof of the damage, as there is no visible evidence of damage in the provided Images; therefore, the claim is currently pending.
+
+The claim is currently pending further scans as part of our ongoing investigation. Therefore, this claim is on hold for 10 days.
 
 The claim has been rejected, as the parcel has been returned to the sender.
 
