@@ -80,6 +80,8 @@ Parcel was last scanned at Store.
 
 The parcel was damaged in the Yodel network. Therefore, the claim has been rejected.
 
+Failed Collection has been raised; therefore, the claim is currently pending.
+
 DI has been raised; therefore, the claim is currently pending.
 
 NFS has been raised; therefore, the claim is currently pending.
