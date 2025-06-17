@@ -43,6 +43,8 @@ As per the investigation, the parcel was damaged in the Yodel network. Therefore
 
 As per the investigation, the claim has been rejected, as the parcel was collected from the store by the customer.
 
+Following the investigation, the claim has been rejected, as no query was raised within the SLA timeframe.
+
 We have reached out to the Service Verification Centre (SVC) for further clarification regarding this matter. Please allow us up to 7 days to complete our enquiries and provide a detailed response.
 
 We kindly request that you provide the lost disclaimer form within 10 days to proceed with the claim process. Please note that failure to submit the form within this timeframe will result in the claim being rejected.
