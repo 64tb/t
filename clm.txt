@@ -19,6 +19,8 @@ The claim has been accepted for £~, as the parcel was damaged upon delivery.
 
 The claim has been accepted for £~, as there was no trace of the parcel within the SVC.
 
+The claim has been rejected, as the parcel has been collected by the customer from the Service Centre.
+
 The claim has been rejected due to improper packaging of the parcel.
 
 The claim has been rejected, as the parcel has been returned to the sender.
@@ -32,6 +34,8 @@ As per the investigation, the claim has been rejected due to improper packaging 
 As per the investigation, the claim has been rejected, as the parcel was successfully delivered to the customer.
 
 As per the investigation, the parcel has been returned to the sender. Please check with your warehouse team. Hence, the claim has been rejected.
+
+As per the investigation, the claim has been rejected, as the parcel has been collected by the customer from the Service Centre.
 
 The claim has been rejected, as the parcel was successfully delivered to the customer.
 
