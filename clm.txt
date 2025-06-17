@@ -74,13 +74,13 @@ Arrived Damaged from Hatfield Sort
 
 Arrived Damaged from Wednesbury Sort
 
-We require proof of cost; therefore, the claim is currently pending.
+We require proof of cost; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
 
-We require LDR; therefore, the claim is currently pending.
+We require LDR; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
 
-We require an actual proof of the damage, as there is no visible evidence of damage in the provided Images; therefore, the claim is currently pending.
+We require an actual proof of the damage, as there is no visible evidence of damage in the provided Images; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
 
-We require images that clearly show the actual damage, along with photographs of the Yodel label, internal and external packaging, and proof of cost, as there is currently no clear evidence of damage visible; therefore, the claim is currently pending.
+We require images that clearly show the actual damage, along with photographs of the Yodel label, internal and external packaging, and proof of cost, as there is currently no clear evidence of damage visible; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
 
 The claim is currently pending further scans as part of our ongoing investigation. Therefore, this claim is on hold for 10 days.
 
@@ -90,11 +90,11 @@ Parcel was last scanned at Store.
 
 The parcel was damaged in the Yodel network. Therefore, the claim has been rejected.
 
-Failed Collection has been raised; therefore, the claim is currently pending.
+Failed Collection has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
 
-DI has been raised; therefore, the claim is currently pending.
+DI has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
 
-NFS has been raised; therefore, the claim is currently pending.
+NFS has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
 
 We require valid proof of cost, as the document previously provided is inaccessible; therefore, the claim is currently pending.
 
