@@ -39,8 +39,6 @@ As per the investigation, the claim has been rejected, as the parcel has been co
 
 The claim has been rejected, as the parcel was successfully delivered to the customer.
 
-As per the investigation, the parcel was damaged in the Yodel network. Therefore, the claim has been rejected.
-
 As per the investigation, the claim has been rejected, as the parcel was collected from the store by the customer.
 
 Following the investigation, the claim has been rejected, as no query was raised within the SLA timeframe.
