@@ -94,7 +94,7 @@ The claim has been rejected, as the parcel has been returned to the sender.
 
 Parcel was last scanned at Store.
 
-The parcel was damaged in the Yodel network. Therefore, the claim has been rejected.
+The claim has been rejected, as we do not hold liability for parcels that have been damaged.
 
 Failed Collection has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
 
