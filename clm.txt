@@ -9,6 +9,11 @@ Proof of Damage : 1. Outer Packaging 2. Inner Packaging 3. Label 4. Proof of Act
 
 Greetings of the day,
 
+As per the investigation, the claim has been accepted for £25.
+
+Regards,
+Vicky
+```````````````````````````````````````````````````
 The claim has been accepted for £~, as the driver did not adhere to the correct delivery procedure and the parcel has been officially declared lost by the service centre.
 
 The claim has been accepted for £~, as the parcel was lost within the Yodel network.
@@ -70,6 +75,15 @@ There is no clear evidence of damage visible. Please provide images that clearly
 
 We kindly request that you submit valid proof of cost, as the document previously provided is inaccessible. This must be done within 10 days in order to proceed with the claim process. Please note that failure to provide the required documentation within this timeframe will result in the claim being declined.
 
+````````````````````````````````````````````````````
+Greetings of the day,
+
+As per the investigation, the claim has been accepted for £25.
+
+Regards,
+Vicky
+````````````````````````````````````````````````````
+
 INTERNAL NOTE : 
 
 Reallocate to Hatfield Sort.
@@ -117,14 +131,7 @@ According to the tracking information, the parcel was marked as not collected. H
 
 There has been no update regarding the parcel since ~. Kindly investigate this matter and provide an update at your earliest convenience.
 
-
-
-Regards,
-Vicky
-
-
-
--------------------------------------
+``````````````````````````````````````````````
 
 Greetings of the day,
 
