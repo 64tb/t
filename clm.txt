@@ -71,6 +71,8 @@ As we have not received any supporting documentation or proof of damage, we are 
 
 The claim is currently pending further scans as part of our ongoing investigation. Therefore, this claim is on hold for 10 days.
 
+The claim has been placed on hold for 10 days due to ongoing scans. Please wait until further updates are available from the scans.
+
 There is no clear evidence of damage visible. Please provide images that clearly show the actual damage, along with photographs of the Yodel label, internal and external packaging, and proof of cost. This documentation must be submitted within 10 days; otherwise, the claim will be declined.
 
 We kindly request that you submit valid proof of cost, as the document previously provided is inaccessible. This must be done within 10 days in order to proceed with the claim process. Please note that failure to provide the required documentation within this timeframe will result in the claim being declined.
@@ -110,13 +112,17 @@ Parcel was last scanned at Store.
 
 The claim has been rejected, as we do not hold liability for parcels that have been damaged.
 
+Following the investigation, the claim has been placed on hold due to a recent scan and will remain on hold for 10 days. Further updates will be provided as new scan information becomes available.
+
+We require valid proof of cost, as the document previously provided is inaccessible; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
+
 Failed Collection has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
 
 DI has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
 
 NFS has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
 
-We require valid proof of cost, as the document previously provided is inaccessible; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
+
 
 
 TICKET:
