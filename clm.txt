@@ -77,6 +77,8 @@ There is no clear evidence of damage visible. Please provide images that clearly
 
 We kindly request that you submit valid proof of cost, as the document previously provided is inaccessible. This must be done within 10 days in order to proceed with the claim process. Please note that failure to provide the required documentation within this timeframe will result in the claim being declined.
 
+We are currently seeking further clarity from the Service Verification Centre. Kindly allow us some additional time to complete the investigation.
+
 ````````````````````````````````````````````````````
 Greetings of the day,
 
@@ -116,6 +118,8 @@ Following the investigation, the claim has been placed on hold due to a recent s
 
 We require valid proof of cost, as the document previously provided is inaccessible; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
 
+We are currently seeking further clarity from the Service Verification Centre; therefore, the claim remains pending at this time.
+
 Failed Collection has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
 
 DI has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
@@ -134,6 +138,8 @@ The parcel has been marked as delivered; however, upon reviewing the scans, I ha
 The parcel has been marked as delivered; however, upon reviewing the POD, it appears that the parcel was left unattended. Kindly investigate this matter further and provide an update regarding the parcel’s precise location.
 
 According to the tracking information, the parcel was marked as not collected. However, the store team has confirmed that it was picked up by the driver. Kindly investigate this matter and provide the accurate status of the parcel.
+
+Kindly provide an update regarding the current status of the parcel, as the client has reached out to us for claim.
 
 There has been no update regarding the parcel since ~. Kindly investigate this matter and provide an update at your earliest convenience.
 
