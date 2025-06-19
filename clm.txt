@@ -167,8 +167,22 @@ The claim has been rejected, as the parcel has been returned to the sender.
 
 
 
+?????????????????????????????????????????????????\
 
+Note Kindly provide an update regarding the current status of the parcel, as the client has reached out to us for claim.
 
+~~~~~~~~~~~~~~~~~~~
+
+Greetings of the day,
+
+We are currently seeking further clarity from the Service Verification Centre. Kindly allow us some additional time to complete the investigation.
+
+Regards,
+Vicky
+
+~~~~~~~~~~~~~~~~~~~~~
+
+We are currently seeking further clarity from the Service Verification Centre; therefore, the claim remains pending at this time.
 
 
 
