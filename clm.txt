@@ -87,6 +87,7 @@ As the correct loss disclaimer form was not provided, the claim has been rejecte
 
 As we have not received the loss disclaimer form in yodel format, the claim has been rejected.
 
+Following the investigation, the claim has been rejected, as the parcel did not have sufficient packaging. Bubble wrap should have been used to ensure adequate protection.
 
 ````````````````````````````````````````````````````
 Greetings of the day,
@@ -135,6 +136,7 @@ As the correct loss disclaimer form was not provided, the claim has been rejecte
 
 As we have not received the loss disclaimer form in yodel format, the claim has been rejected.
 
+The claim has been rejected, as the parcel did not have sufficient packaging. Bubble wrap should have been used to ensure adequate protection.
 
 Failed Collection has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
 
