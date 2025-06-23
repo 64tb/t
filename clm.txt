@@ -28,6 +28,10 @@ The claim has been rejected, as the parcel has been collected by the customer fr
 
 The claim has been rejected due to improper packaging of the parcel.
 
+The claim has been rejected, as the proof of cost was not provided.
+
+The claim has been rejected, as the lost disclaimer form was not provided.
+
 The claim has been rejected, as the parcel has been returned to the sender.
 
 As per the investigation, the claim has been rejected, as the parcel has been returned to the sender.
