@@ -148,7 +148,7 @@ DI has been raised; therefore, the claim is currently pending. Please allow us 7
 
 NFS has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
 
-
+The ticket has been reopened; therefore, the claim is currently pending.
 
 
 TICKET:
