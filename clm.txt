@@ -34,6 +34,8 @@ The claim has been rejected, as the lost disclaimer form was not provided.
 
 The claim has been rejected, as the parcel has been returned to the sender.
 
+The claim has been rejected, as the loss disclaimer form was not provided. To proceed further with the claim, we require the completed loss disclaimer form.
+
 As per the investigation, the claim has been rejected, as the parcel has been returned to the sender.
 
 As per the investigation, the claim has been accepted for £50.
