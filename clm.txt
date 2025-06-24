@@ -54,6 +54,8 @@ The claim has been rejected, as the parcel was successfully delivered to the cus
 
 As per the investigation, the claim has been rejected, as the parcel was collected from the store by the customer.
 
+Following the investigation, the claim has been rejected, as the parcel was delivered inside the gated property. The delivery was confirmed by geocodes and the proof of delivery, which indicates that the parcel was securely placed within the premises. As such, the delivery is considered successful.
+
 Following the investigation, the claim has been rejected, as no query was raised within the SLA timeframe.
 
 We have reached out to the Service Verification Centre (SVC) for further clarification regarding this matter. Please allow us up to 7 days to complete our enquiries and provide a detailed response.
