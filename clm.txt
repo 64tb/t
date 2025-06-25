@@ -173,7 +173,9 @@ According to the tracking information, the parcel was marked as not collected. H
 
 Kindly provide an update regarding the current status of the parcel, as the client has reached out to us for claim.
 
-There has been no update regarding the parcel since ~. Kindly investigate this matter and provide an update at your earliest convenience.
+There has been no update regarding the parcel since ~. Kindly investigate this matter and provide an update at your earliest convenience.   Item description : 
+
+The proof of delivery is non-compliant, as the parcel was left outside in an unsafe location and visible to the public. The client has contacted us regarding a claim. Kindly investigate the matter and provide the exact delivery location of the parcel.
 
 ``````````````````````````````````````````````
 
