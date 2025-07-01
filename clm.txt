@@ -109,6 +109,8 @@ As the correct loss disclaimer form was not provided, the claim has been rejecte
 
 As we have not received the loss disclaimer form in yodel format, the claim has been rejected.
 
+We kindly request that you submit the lost disclaimer form in the Yodel format, as the version provided is insufficient. Kindly ensure this is done within 10 days to allow the claim process to proceed. Please be advised that failure to submit the form within this period will result in the rejection of the claim..
+
 Following the investigation, the claim has been rejected, as the parcel did not have sufficient packaging. Bubble wrap should have been used to ensure adequate protection.
 
 ````````````````````````````````````````````````````
@@ -139,6 +141,8 @@ We require LDR and proof of cost; therefore, the claim is currently pending. As 
 We require an actual proof of the damage, as there is no visible evidence of damage in the provided Images; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
 
 We require images that clearly show the actual damage, along with photographs of the Yodel label, internal and external packaging, and proof of cost, as there is currently no clear evidence of damage visible; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
+
+We require the lost disclaimer form in the Yodel format, as the version provided is insufficient. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
 
 The claim is currently pending further scans as part of our ongoing investigation. Therefore, this claim is on hold for 10 days.
 
