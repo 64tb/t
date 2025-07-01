@@ -187,6 +187,8 @@ There has been no update regarding the parcel since ~. Kindly investigate this m
 
 The proof of delivery is non-compliant, as the parcel was left outside in an unsafe location and visible to the public. The client has contacted us regarding a claim. Kindly investigate the matter and provide the exact delivery location of the parcel.
 
+The parcel has been marked as delivered; however, the customer has disputed the delivery. The client has contacted us regarding a claim. Kindly investigate the matter.
+
 ``````````````````````````````````````````````
 
 Greetings of the day,
