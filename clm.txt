@@ -34,7 +34,7 @@ The claim has been accepted for £~, as there was no trace of the parcel within 
 
 The claim has been rejected, as the parcel has been collected by the customer from the Service Centre.
 
-The claim has been rejected due to improper packaging of the parcel.
+The claim has been rejected due to insufficient packaging of the parcel.
 
 The claim has been rejected, as the proof of cost was not provided.
 
@@ -50,7 +50,7 @@ As per the investigation, the claim has been rejected, as the parcel has been re
 
 As per the investigation, the claim has been accepted for £50.
 
-As per the investigation, the claim has been rejected due to improper packaging of the parcel.
+As per the investigation, the claim has been rejected due to insufficient packaging of the parcel.
 
 As per the investigation, the claim has been rejected, as the parcel was successfully delivered to the customer.
 
