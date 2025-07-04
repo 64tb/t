@@ -7,6 +7,7 @@ When asking for LDR "select Status as "Awaiting Evidence" and Sub Category "Cust
 Proof of Damage : 1. Outer Packaging 2. Inner Packaging 3. Label 4. Proof of Actual Damage 5. POC
 
 
+
 Greetings of the day,
 
 As per the investigation, the claim has been accepted for £25.
@@ -179,25 +180,26 @@ TICKET:
 
 The POD is also non-compliant, as there is no visible recipient accepting the parcel.
 
-The parcel has been marked as delivered; however, upon reviewing the scans, I have observed that the geo-codes are broken. Kindly investigate this issue further and provide an update regarding the parcel’s exact location.
+The parcel has been marked as delivered; however, the customer has disputed the delivery. Upon reviewing the scans, I have observed that the geo-codes are broken. The client has contacted us regarding a claim for this parcel. Please advise.
 
-The parcel has been marked as delivered; however, upon reviewing the POD, it appears that the parcel was left unattended. Kindly investigate this matter further and provide an update regarding the parcel’s precise location.
+The parcel has been marked as delivered; however, the customer has disputed the delivery. Upon reviewing the POD, it appears that the parcel was left unattended. The client has contacted us regarding a claim for this parcel. Please advise.
 
-The parcel has been marked as delivered; however, upon reviewing the scans, I have observed that the geo-codes are broken and the POD is non-compliant. Kindly investigate this issue further and provide an update regarding the parcel’s exact location.
+The parcel has been marked as delivered; however, the customer has disputed the delivery. Upon reviewing the scans, I have observed that the geo-codes are broken and the POD is non-compliant. The client has contacted us regarding a claim for this parcel. Please advise.
 
-The parcel has been marked as delivered; however, the customer has disputed the delivery. Upon reviewing the scans, I have observed that the POD is non-compliant. The client has contacted us regarding a claim. Kindly investigate this issue further and provide an update regarding the parcel’s exact location.
+The parcel has been marked as delivered; however, the customer has disputed the delivery. Upon reviewing the scans, I have observed that the POD is non-compliant. The client has contacted us regarding a claim for this parcel. Please advise.
 
-The parcel has been marked as delivered; however, upon reviewing the scans, it has been noted that the proof of delivery is non-compliant and the parcel was left in an unsafe location in public view. Kindly investigate this matter further and provide an update regarding the parcel’s exact location.
+The parcel has been marked as delivered; however, the customer has disputed the delivery. Upon reviewing the scans, it has been noted that the proof of delivery is non-compliant and the parcel was left in an unsafe location in public view. The client has contacted us regarding a claim for this parcel. Please advise.
 
-According to the tracking information, the parcel was marked as not collected. However, the store team has confirmed that it was picked up by the driver. Kindly investigate this matter and provide the accurate status of the parcel.
+According to the tracking information, the parcel was marked as not collected. However, the store team has confirmed that it was picked up by the driver. The client has contacted us regarding a claim for this parcel. Please advise.
 
 Kindly provide an update regarding the current status of the parcel, as the client has reached out to us for claim.
 
-There has been no update regarding the parcel since ~. Kindly investigate this matter and provide an update at your earliest convenience.   Item description : 
+There has been no update regarding the parcel since ~. Kindly investigate this matter and provide an update at your earliest convenience. The client has contacted us regarding a claim for this parcel. Please advise.   
+Item description : 
 
-The proof of delivery is non-compliant, as the parcel was left outside in an unsafe location and visible to the public. The client has contacted us regarding a claim. Kindly investigate the matter and provide the exact delivery location of the parcel.
+The proof of delivery is non-compliant, as the parcel was left outside in an unsafe location and visible to the public. The client has contacted us regarding a claim for this parcel. Please advise.
 
-The parcel has been marked as delivered; however, the customer has disputed the delivery. The client has contacted us regarding a claim. Kindly investigate the matter.
+The parcel has been marked as delivered; however, the customer has disputed the delivery. The client has contacted us regarding a claim for this parcel. Please advise.
 
 ``````````````````````````````````````````````
 
