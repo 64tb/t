@@ -24,6 +24,8 @@ Vicky
 ```````````````````````````````````````````````````
 The claim has been accepted for £~, as the driver did not adhere to the correct delivery procedure and the parcel has been officially declared lost by the service centre.
 
+The claim has been accepted for £~, as the driver did not adhere to the correct delivery procedure and left the parcel unattended.
+
 The claim has been accepted for £~, as the parcel was lost within the Yodel network.
 
 The claim has been accepted for £~, as the parcel was damaged within the Yodel network.
