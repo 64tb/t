@@ -185,6 +185,10 @@ The parcel has been marked as delivered; however, upon reviewing the POD, it app
 
 The parcel has been marked as delivered; however, upon reviewing the scans, I have observed that the geo-codes are broken and the POD is non-compliant. Kindly investigate this issue further and provide an update regarding the parcel’s exact location.
 
+The parcel has been marked as delivered; however, the customer has disputed the delivery. Upon reviewing the scans, I have observed that the POD is non-compliant. The client has contacted us regarding a claim. Kindly investigate this issue further and provide an update regarding the parcel’s exact location.
+
+The parcel has been marked as delivered; however, upon reviewing the scans, it has been noted that the proof of delivery is non-compliant and the parcel was left in an unsafe location in public view. Kindly investigate this matter further and provide an update regarding the parcel’s exact location.
+
 According to the tracking information, the parcel was marked as not collected. However, the store team has confirmed that it was picked up by the driver. Kindly investigate this matter and provide the accurate status of the parcel.
 
 Kindly provide an update regarding the current status of the parcel, as the client has reached out to us for claim.
