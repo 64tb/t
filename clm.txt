@@ -1,12 +1,5 @@
-
-office holdings : if pod is non-attended when it is attended delivery, simply ACCEPT.
 No need of client query for damaged scans.
-For redirecting to sortation select "Lost in yodel network"
-For losing it in SVC select "No trace in SVC"
-When asking for LDR "select Status as "Awaiting Evidence" and Sub Category "Customer non-receipt disclaimer"
 Proof of Damage : 1. Outer Packaging 2. Inner Packaging 3. Label 4. Proof of Actual Damage 5. POC
-
-
 
 Greetings of the day,
 
