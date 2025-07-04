@@ -183,7 +183,7 @@ The parcel has been marked as delivered; however, the customer has disputed the 
 
 The parcel has been marked as delivered; however, the customer has disputed the delivery. Upon reviewing the scans, it has been noted that the proof of delivery is non-compliant and the parcel was left in an unsafe location in public view. The client has contacted us regarding a claim for this parcel. Please advise.
 
-According to the tracking information, the parcel was marked as not collected. However, the store team has confirmed that it was picked up by the driver. The client has contacted us regarding a claim for this parcel. Please advise.
+According to the tracking information, the parcel was marked as "Unable To Collect (No Parcel Available)". However, the store team has confirmed that they do not have the parcel and that the driver collects daily. The client has contacted us regarding a claim for this parcel. Please advise.
 
 Kindly provide an update regarding the current status of the parcel, as the client has reached out to us for claim.
 
