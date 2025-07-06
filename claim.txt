@@ -1,59 +1,81 @@
 
-office holdings : if pod is non-attended when it is attended delivery, simply ACCEPT.
-No need of client query for damaged scans.
-For redirecting to sortation select "Lost in yodel network"
-For losing it in SVC select "No trace in SVC"
-When asking for LDR "select Status as "Awaiting Evidence" and Sub Category "Customer non-receipt disclaimer"
-Proof of Damage : 1. Outer Packaging 2. Inner Packaging 3. Label 4. Proof of Actual Damage 5. POC
+Greetings of the day,
+
+As per the investigation, the claim has been accepted for £~.
+
+Regards,
+Vicky
 
 
 
-```````````````````````````````````````````````````
+CLIENT :
+
+ACCEPT :
+
+As per the investigation, the claim has been accepted for £~.
+
+As per the investigation, the claim has been accepted for £25.
+
+As per the investigation, the claim has been accepted for £50.
 
 
-There is no visible evidence of damage. Kindly provide actual proof of the damage in order for us to proceed. This evidence must be submitted within 10 days; failure to do so will result in the claim being rejected.
+REJECT :
 
-There is no clear evidence of damage visible. Please provide images clearly showing the actual damage, along with photographs of the internal and external packaging. This documentation must be submitted within 10 days; otherwise, the claim will be declined.
+As per the investigation, the claim has been rejected, as the parcel was successfully delivered to the customer.
 
-Please provide images clearly showing the actual damage, along with photographs of the Yodel label and internal packaging. This documentation must be submitted within 10 days; otherwise, the claim will be declined.
+As per the investigation, the claim has been rejected, as the parcel has been returned to the sender.
 
-Following our investigation, this claim has been declined as the images submitted do not display any visible signs of damage to either the external or internal packaging. Based on this evidence, we are unable to validate the claim for damage.
+As per the investigation, the claim has been rejected, as the parcel was successfully delivered to the neighbour, ~, at House No. ~.
 
-Following the investigation, the claim has been declined, as the parcel was successfully delivered to the neighbour, ~, at House No. ~.
+As per the investigation, the claim has been rejected, as the parcel has been returned to the sender. Please check with your warehouse team.
 
-Following our re-investigation, we regret to inform you that the claim has been rejected. Our records confirm that the parcel was delivered to a designated safe place. The location is secure, and all previously undisputed (JD000~) proof of delivery aligns with the current delivery details.
+As per the investigation, the claim has been rejected due to insufficient packaging of the parcel.
 
-Following our re-investigation, we found no scan or record indicating that the parcel was damaged in transit.
-As we have not received any supporting documentation or proof of damage, we are unable to proceed further with this claim. Therefore, the claim has been rejected.
+As per the investigation, the claim has been rejected, as the parcel was collected from the store by the customer.
 
-The claim is currently pending further scans as part of our ongoing investigation. Therefore, this claim is on hold for 10 days.
+As per the investigation, the claim has been rejected, as the parcel has been collected by the customer from the Service Centre.
+
+As per the investigation, the claim has been rejected, as no query was raised within the SLA timeframe.
+
+As the proof of cost was not provided, the claim has been rejected.
+
+As the correct loss disclaimer form was not provided, the claim has been rejected.
+
+The claim has been rejected, as we do not hold liability for parcels that have been damaged.
+
+
+PEND :
+
+We have reached out to the Service Verification Centre (SVC) for further clarification regarding this matter. Please allow us up to 7 days to complete our enquiries and provide a detailed response.
+
+We kindly request that you provide the lost disclaimer form within 10 days to proceed with the claim process. Please be advised that failure to provide the required documentation within this timeframe will result in the claim being rejected.
+
+We kindly request that you submit proof of cost within 10 days in order to proceed with the claim process. Please be advised that failure to provide the required documentation within this timeframe will result in the claim being rejected.
+
+We kindly request that you provide the lost disclaimer form and proof of cost within 10 days to proceed with the claim process. Please note that failure to submit the form within this timeframe will result in the claim being rejected.
 
 The claim has been placed on hold for 10 days due to ongoing scans. Please wait until further updates are available from the scans.
+
+We are currently seeking further clarity from the Service Verification Centre. Kindly allow us some additional time to complete the investigation.
+
+There is no visible evidence of damage. Kindly provide actual proof of the damage in order for us to proceed. This evidence must be submitted within 10 days; failure to do so will result in the claim being rejected.
 
 There is no clear evidence of damage visible. Please provide images that clearly show the actual damage, along with photographs of the Yodel label, internal and external packaging, and proof of cost. This documentation must be submitted within 10 days; otherwise, the claim will be declined.
 
 We kindly request that you submit valid proof of cost, as the document previously provided is inaccessible. This must be done within 10 days in order to proceed with the claim process. Please note that failure to provide the required documentation within this timeframe will result in the claim being declined.
 
-We are currently seeking further clarity from the Service Verification Centre. Kindly allow us some additional time to complete the investigation.
+We kindly request that you provide the correct lost disclaimer form within 10 days, as the ~~ on the submitted form does not match the records in our system. Please note that failure to submit the revised form within this timeframe will result in the claim being rejected.
 
-We have commenced an investigation into this parcel with the service centre. Please allow additional time for the process to be completed. We appreciate your patience and understanding.
+We kindly request that you submit the lost disclaimer form in the Yodel format, as the version provided is insufficient. Kindly ensure this is done within 10 days to allow the claim process to proceed. Please be advised that failure to submit the form within this period will result in the rejection of the claim.
 
-As the correct loss disclaimer form was not provided, the claim has been rejected.
 
-As we have not received the loss disclaimer form in yodel format, the claim has been rejected.
+INTERNAL NOTES :
 
-Following the investigation, the claim has been rejected, as the parcel did not have sufficient packaging. Bubble wrap should have been used to ensure adequate protection.
+REALLACATE : 
 
-````````````````````````````````````````````````````
-Greetings of the day,
+Reallocate to ~.
 
-As per the investigation, the claim has been accepted for £25.
-
-Regards,
-Vicky
-````````````````````````````````````````````````````
-
-INTERNAL NOTE :
+Parcel was last scanned at Store.
 
 Reallocate to Hatfield Sort.
 
@@ -62,6 +84,56 @@ Reallocate to Wednesbury Sort.
 Arrived Damaged from Hatfield Sort
 
 Arrived Damaged from Wednesbury Sort
+
+
+ACCEPT :
+
+The claim has been accepted, as there was no trace of the parcel within the SVC.
+
+The claim has been accepted, as the parcel was lost within the Yodel network.
+
+The claim has been accepted, as the driver did not adhere to the correct delivery procedure and the parcel has been officially declared lost by the service centre.
+
+The claim has been accepted, as the parcel was damaged within the Yodel network.
+
+The claim has been accepted, as the parcel was damaged upon delivery.
+
+
+
+REJECT :
+
+The claim has been rejected, as the parcel was successfully delivered to the customer.
+
+The claim has been rejected, as the parcel has been returned to the sender.
+
+The claim has been rejected, as the parcel was successfully delivered to the neighbour, ~, at House No. ~.
+
+The claim has been rejected, as the parcel has been collected by the customer from the Service Centre.
+
+The claim has been rejected, as the parcel was collected from the store by the customer.
+
+The claim has been rejected due to insufficient packaging of the parcel.
+
+The claim has been rejected, as no query was raised within the SLA timeframe.
+
+As the correct loss disclaimer form was not provided, the claim has been rejected.
+
+The claim has been rejected, as we do not hold liability for parcels that have been damaged.
+
+
+PEND :
+
+The claim has been placed on hold for 10 days due to ongoing scans. Please wait until further updates are available from the scans.
+
+We are currently seeking further clarity from the Service Verification Centre. Kindly allow us some additional time to complete the investigation.
+
+Failed Collection has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
+
+DI has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
+
+NFS has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
+
+The ticket has been reopened; therefore, the claim is currently pending.
 
 We require proof of cost; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
 
@@ -73,94 +145,43 @@ We require an actual proof of the damage, as there is no visible evidence of dam
 
 We require images that clearly show the actual damage, along with photographs of the Yodel label, internal and external packaging, and proof of cost, as there is currently no clear evidence of damage visible; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
 
-The claim is currently pending further scans as part of our ongoing investigation. Therefore, this claim is on hold for 10 days.
-
-The claim has been rejected, as the parcel has been returned to the sender.
-
-Parcel was last scanned at Store.
-
-The claim has been rejected, as we do not hold liability for parcels that have been damaged.
-
-Following the investigation, the claim has been placed on hold due to a recent scan and will remain on hold for 10 days. Further updates will be provided as new scan information becomes available.
+We require the lost disclaimer form in the Yodel format, as the version provided is insufficient. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
 
 We require valid proof of cost, as the document previously provided is inaccessible; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
-
-We are currently seeking further clarity from the Service Verification Centre; therefore, the claim remains pending at this time.
-
-As the correct loss disclaimer form was not provided, the claim has been rejected.
-
-As we have not received the loss disclaimer form in yodel format, the claim has been rejected.
-
-The claim has been rejected, as the parcel did not have sufficient packaging. Bubble wrap should have been used to ensure adequate protection.
-
-Failed Collection has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
-
-DI has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
-
-NFS has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
-
-
 
 
 TICKET:
 
 The POD is also non-compliant, as there is no visible recipient accepting the parcel.
 
-The parcel has been marked as delivered; however, upon reviewing the scans, I have observed that the geo-codes are broken. Kindly investigate this issue further and provide an update regarding the parcel’s exact location.
+The parcel has been marked as delivered; however, the customer has disputed the delivery. Upon reviewing the scans, I have observed that the geo-codes are broken. The client has contacted us regarding a claim for this parcel. Please advise.
 
-The parcel has been marked as delivered; however, upon reviewing the POD, it appears that the parcel was left unattended. Kindly investigate this matter further and provide an update regarding the parcel’s precise location.
+The parcel has been marked as delivered; however, the customer has disputed the delivery. Upon reviewing the POD, it appears that the parcel was left unattended. The client has contacted us regarding a claim for this parcel. Please advise.
 
-The parcel has been marked as delivered; however, upon reviewing the scans, I have observed that the geo-codes are broken and the POD is non-compliant. Kindly investigate this issue further and provide an update regarding the parcel’s exact location.
+The parcel has been marked as delivered; however, the customer has disputed the delivery. Upon reviewing the scans, I have observed that the geo-codes are broken and the POD is non-compliant. The client has contacted us regarding a claim for this parcel. Please advise.
 
-According to the tracking information, the parcel was marked as not collected. However, the store team has confirmed that it was picked up by the driver. Kindly investigate this matter and provide the accurate status of the parcel.
+The parcel has been marked as delivered; however, the customer has disputed the delivery. Upon reviewing the scans, I have observed that the POD is non-compliant. The client has contacted us regarding a claim for this parcel. Please advise.
 
-Kindly provide an update regarding the current status of the parcel, as the client has reached out to us for claim.
+The parcel has been marked as delivered; however, the customer has disputed the delivery. Upon reviewing the scans, it has been noted that the proof of delivery is non-compliant and the parcel was left in an unsafe location in public view. The client has contacted us regarding a claim for this parcel. Please advise.
 
-There has been no update regarding the parcel since ~. Kindly investigate this matter and provide an update at your earliest convenience.
-
-``````````````````````````````````````````````
-
-Greetings of the day,
-
-As per the investigation, the claim has been accepted for £25.
-
-Regards,
-Vicky
-
--------------------------------------
-
-Greetings of the day,
-
-As per the investigation, the parcel has been returned to the sender. Please check with your warehouse team. Hence, the claim has been rejected.
-
-Regards,
-Vicky
-
--------------------------------------
-
-The claim has been rejected, as the parcel has been returned to the sender.
-
-
-
-?????????????????????????????????????????????????\
+According to the tracking information, the parcel was marked as "Unable To Collect (No Parcel Available)". However, the store team has confirmed that they do not have the parcel and that the driver collects daily. The client has contacted us regarding a claim for this parcel. Please advise.
 
 Kindly provide an update regarding the current status of the parcel, as the client has reached out to us for claim.
 
-~~~~~~~~~~~~~~~~~~~
+There has been no update regarding the parcel since ~. Kindly investigate this matter and provide an update at your earliest convenience. The client has contacted us regarding a claim for this parcel. Please advise.   
+Item description : 
 
-Greetings of the day,
+The proof of delivery is non-compliant, as the parcel was left outside in an unsafe location and visible to the public. The client has contacted us regarding a claim for this parcel. Please advise.
 
-We are currently seeking further clarity from the Service Verification Centre. Kindly allow us some additional time to complete the investigation.
-
-Regards,
-Vicky
-
-~~~~~~~~~~~~~~~~~~~~~
-
-We are currently seeking further clarity from the Service Verification Centre; therefore, the claim remains pending at this time.
+The parcel has been marked as delivered; however, the customer has disputed the delivery. The client has contacted us regarding a claim for this parcel. Please advise.
 
 
 
 
 
--
+
+
+
+
+
+
