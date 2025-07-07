@@ -195,6 +195,9 @@ The proof of delivery is non-compliant, as the parcel was left outside in an uns
 
 The parcel has been marked as delivered; however, the customer has disputed the delivery. The client has contacted us regarding a claim for this parcel. Please advise.
 
+~~~~~~~~~~~~~~~~~~~~
+The parcel has been marked as delivered (returned to sender); however, the client has disputed the delivery. Upon reviewing the scans, it has been observed that the geo-codes are broken. The client has contacted us regarding a claim for this parcel. Please advise.
+
 ``````````````````````````````````````````````
 
 Greetings of the day,
