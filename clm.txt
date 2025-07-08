@@ -106,7 +106,11 @@ We have commenced an investigation into this parcel with the service centre. Ple
 
 We kindly request that you provide the correct lost disclaimer form within 10 days, as the ~~ on the submitted form does not match the records in our system. Please note that failure to submit the revised form within this timeframe will result in the claim being rejected.
 
+As the proof of cost was not provided, the claim has been rejected.
+
 As the correct loss disclaimer form was not provided, the claim has been rejected.
+
+As the loss disclaimer form was not provided, the claim has been rejected.
 
 As we have not received the loss disclaimer form in yodel format, the claim has been rejected.
 
