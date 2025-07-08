@@ -59,6 +59,10 @@ The claim has been rejected, as the parcel was successfully delivered to the cus
 
 As per the investigation, the claim has been rejected, as the parcel was collected from the store by the customer.
 
+The claim has been rejected as the cost value does not match the amount shown on the submitted proof of cost document. To proceed further with the claims process, please provide the correct proof of cost.
+
+We kindly request that you provide the correct proof of cost within 10 days, as the cost value on the submitted document does not match the amount stated in the claim. Please note that failure to submit the correct proof of cost within this timeframe will result in the claim being rejected.
+
 Following the investigation, the claim has been rejected, as the parcel was delivered inside the gated property. The delivery was confirmed by geocodes and the proof of delivery, which indicates that the parcel was securely placed within the premises. As such, the delivery is considered successful.
 
 Following the investigation, the claim has been rejected, as the depot has confirmed that the parcel was delivered to the correct location. The geocodes and proof of delivery support this. Furthermore, we have previously delivered parcels to the same door (as visible in the proof of delivery) without any disputes.
@@ -160,6 +164,8 @@ As the correct loss disclaimer form was not provided, the claim has been rejecte
 As we have not received the loss disclaimer form in yodel format, the claim has been rejected.
 
 The claim has been rejected, as the parcel did not have sufficient packaging. Bubble wrap should have been used to ensure adequate protection.
+
+The claim has been rejected as the cost value does not match the amount shown on the submitted proof of cost document.
 
 Failed Collection has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.
 
