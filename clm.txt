@@ -80,6 +80,8 @@ As per the investigation, the claim has been rejected, as the parcel has been co
 
 The claim has been rejected, as the parcel was successfully delivered to the customer.
 
+The claim has been accepted, as no update was provided by the SVC within the SLA timeframe.
+
 As per the investigation, the claim has been rejected, as the parcel was collected from the store by the customer.
 
 The claim has been rejected as the cost value does not match the amount shown on the submitted proof of cost document. To proceed further with the claims process, please provide the correct proof of cost.
