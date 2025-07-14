@@ -62,6 +62,8 @@ The claim has been rejected, as the lost disclaimer form was not provided.
 
 The claim has been rejected, as the parcel has been returned to the sender.
 
+The claim has been rejected, as no proof of damage was provided. To proceed further with the claim, kindly share the required documents.
+
 The claim has been rejected, as the loss disclaimer form was not provided. To proceed further with the claim, we require the loss disclaimer form.
 
 The claim has been rejected, as the proof of cost was not provided. To proceed further with the claim, we require the proof of cost documentation.
