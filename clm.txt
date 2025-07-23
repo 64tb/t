@@ -145,6 +145,15 @@ We kindly request that you submit the lost disclaimer form in the Yodel format, 
 
 Following the investigation, the claim has been rejected, as the parcel did not have sufficient packaging. Bubble wrap should have been used to ensure adequate protection.
 
+Following our review, we did not receive the required Loss Disclaimer Form within the specified timeframe. Please note that in order to proceed with the claim, we require the Loss Disclaimer Form.
+
+Following our review, we did not receive the required proof of cost within the specified timeframe. Please note that in order to proceed with the claim, we require the cost invoice.
+
+Following our review, we did not receive the required Loss Disclaimer Form and proof of cost within the specified timeframe. Please note that in order to proceed with the claim, we require a cost invoice along with the Loss Disclaimer Form.
+
+As the document was not submitted within the 10-day window provided, the claim has been refuted.
+
+As these documents were not submitted within the 10-day window provided, the claim has been refuted.
 ````````````````````````````````````````````````````
 Greetings of the day,
 
