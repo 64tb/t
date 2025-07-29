@@ -1,22 +1,9 @@
 
-
-
-
-
-
-
-
-
 ````````````````````````````````````````````````````````````````````````````````
 
                 87RKK4838462A	PACKLINK SHIPPING SL	Damage
 
 ````````````````````````````````````````````````````````````````````````````````
-
-
-
-
-
 
 
 
@@ -95,6 +82,8 @@ Following the investigation, the claim has been rejected, as the parcel was deli
 Following the investigation, the claim has been rejected, as the depot has confirmed that the parcel was delivered to the correct location. The geocodes and proof of delivery support this. Furthermore, we have previously delivered parcels to the same door (as visible in the proof of delivery) without any disputes.
 
 Following the investigation, the claim has been rejected, as no query was raised within the SLA timeframe.
+
+Following the investigation, the requested evidence was not provided within the stipulated 10-day period. Consequently, we regret to inform you that we are unable to take this claim any further.
 
 We have reached out to the Service Verification Centre (SVC) for further clarification regarding this matter. Please allow us up to 7 days to complete our enquiries and provide a detailed response.
 
@@ -192,6 +181,8 @@ The claim is currently pending further scans as part of our ongoing investigatio
 The claim has been rejected, as the parcel has been returned to the sender.
 
 Parcel was last scanned at Store.
+
+The requested evidence was not submitted within the stipulated 10-day period; therefore, the claim has been declined.
 
 The claim has been rejected, as we do not hold liability for parcels that have been damaged.
 
