@@ -128,10 +128,6 @@ As the correct loss disclaimer form was not provided, the claim has been rejecte
 
 As the loss disclaimer form was not provided, the claim has been rejected.
 
-As we have not received the loss disclaimer form in yodel format, the claim has been rejected.
-
-We kindly request that you submit the lost disclaimer form in the Yodel format, as the version provided is insufficient. Kindly ensure this is done within 10 days to allow the claim process to proceed. Please be advised that failure to submit the form within this period will result in the rejection of the claim..
-
 Following the investigation, the claim has been rejected, as the parcel did not have sufficient packaging. Bubble wrap should have been used to ensure adequate protection.
 
 Following our review, we did not receive the required Loss Disclaimer Form within the specified timeframe. Please note that in order to proceed with the claim, we require the Loss Disclaimer Form.
@@ -172,8 +168,6 @@ We require an actual proof of the damage, as there is no visible evidence of dam
 
 We require images that clearly show the actual damage, along with photographs of the Yodel label, internal and external packaging, and proof of cost, as there is currently no clear evidence of damage visible; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
 
-We require the lost disclaimer form in the Yodel format, as the version provided is insufficient. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
-
 We require the correct proof of cost, as the cost value on the submitted document does not match the amount stated in the claim. As a result, this case will be placed on hold for 10 days to allow for the submission of the required documentation.
 
 The claim is currently pending further scans as part of our ongoing investigation. Therefore, this claim is on hold for 10 days.
@@ -194,7 +188,6 @@ We are currently seeking further clarity from the Service Verification Centre; t
 
 As the correct loss disclaimer form was not provided, the claim has been rejected.
 
-As we have not received the loss disclaimer form in yodel format, the claim has been rejected.
 
 The claim has been rejected, as the parcel did not have sufficient packaging. Bubble wrap should have been used to ensure adequate protection.
 
