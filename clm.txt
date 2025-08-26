@@ -4,20 +4,6 @@ No need of client query for damaged scans.
 Proof of Damage : 1. Outer Packaging 2. Inner Packaging 3. Label 4. Proof of Actual Damage 5. POC
 TAILSCO: POC not needed. LDR needed
 
-Greetings of the day,
-
-As per the investigation, the claim has been accepted for £25.
-
-Regards,
-Vicky
-
-Greetings of the day,
-
-As per the investigation, the claim has been accepted for £50.
-
-Regards,
-Vicky
-
 ```````````````````````````````````````````````````
 We kindly request that you provide the correct loss disclaimer form, as the document previously provided is insufficient. The form must include the parcel ID, along with the recipient’s name and full address and must be signed by the recipient. This must be completed within 10 days for the claim process to proceed; otherwise, the claim will be declined.
 
