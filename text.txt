@@ -11,7 +11,7 @@ I apologise for the inconvenience. As your parcel's estimated delivery date is t
 
 
 ------------------------------------------------------------------------------------------------
-https://www.ckbhospital.com/blogs/food-upset-stomach
+document.querySelector('video').playbackRate = 6.0
 ------------------------------------------------------------------------------------------------
 
 You can use the Yodel mobile application to view the proof of delivery.
