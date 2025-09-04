@@ -1,1 +1,193 @@
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>temp</title>
+    <link rel="icon" type="image/x-icon" href="icon.png">
+    <style>
+        :root {
+            --primary-color: #ffffff;
+            --secondary-color: #e0e4e6;
+            --background-color: #000000;
+        }
+
+        body {
+            background-color: var(--background-color);
+            color: var(--primary-color);
+            font-family: 'FreeMono', monospace;
+            margin: 2px;
+            line-height: 0.9;
+            font-size: 0.8rem;
+        }
+
+        h1 {
+            font-size: 1rem;
+            margin: 0.2rem 0 0.2rem 0.2rem;
+            color: var(--secondary-color);
+            padding-bottom: 0.1rem;
+        }
+
+        .snippet-group {
+            margin-bottom: 0.2rem;
+        }
+
+        .copy-container {
+            display: flex;
+            align-items: flex-start;
+            margin: 0.1rem 0;
+            padding: 0.1rem 0.2rem;
+            border-radius: 4px;
+            transition: background-color 0.1s;
+        }
+
+        .copy-container:hover {
+            background-color: #1a1a1a;
+        }
+
+        .copy-btn {
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 1px;
+            margin-right: 4px;
+            flex-shrink: 0;
+            align-self: center;
+        }
+
+        .copy-icon {
+            width: 32px;
+            height: 15px;
+            transition: opacity 0.1s;
+        }
+
+        .copy-icon use {
+            color: var(--secondary-color);
+        }
+
+        .copy-btn:hover .copy-icon {
+            opacity: 0.8;
+        }
+
+        .copy-btn:active .copy-icon {
+            opacity: 0.6;
+        }
+
+        .snippet-text {
+            margin: 0;
+            flex-grow: 1;
+            user-select: text;
+            font-size: 0.85rem;
+        }
+
+        .feedback {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <svg style="display: none;">
+        <symbol id="copy-icon" viewBox="0 0 24 24">
+            <path fill="currentColor" d="M19 21H8V7h11m0-2H8a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2m-3-4H4a2 2 0 0 0-2 2v14h2V3h12V1z"/>
+        </symbol>
+        <symbol id="check-icon" viewBox="0 0 24 24">
+            <path fill="currentColor" d="M21 7L9 19l-5.5-5.5 1.41-1.41L9 16.17 19.59 5.59 21 7z"/>
+        </symbol>
+    </svg>
+    
+    <div class="snippet-group">
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Greetings of the day,
+<br>
+<br>As per the investigation, the claim has been accepted for £25.
+<br>
+<br>Regards,
+<br>Vicky</p></div>
+    </div>
+    <div class="snippet-group">
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Greetings of the day,
+<br>
+<br>As per the investigation, the claim has been accepted for £50.
+<br>
+<br>Regards,
+<br>Vicky</p></div>
+    </div>
+    <h1>PEND :</h1>
+    <div class="snippet-group">
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">We have reached out to the Service Verification Centre (SVC) for further clarification regarding this matter. Please allow us up to 7 days to complete our enquiries and provide a detailed response.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">We kindly request that you provide the lost disclaimer form within 10 days to proceed with the claim process. Please be advised that failure to provide the required documentation within this timeframe will result in the claim being rejected.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">We kindly request that you provide proof of cost within 10 days in order to proceed with the claim process. Please be advised that failure to provide the required documentation within this timeframe will result in the claim being rejected.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">We kindly request that you provide the correct loss disclaimer form, as the document previously provided is insufficient. The form must include the parcel ID, along with the recipient’s name and full address and must be signed by the recipient. This must be completed within 10 days for the claim process to proceed; otherwise, the claim will be declined.</p></div>
+    </div>
+    <h1>MEANTIME :</h1>
+    <div class="snippet-group">
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">In the meantime, we kindly request that you submit the proof of cost, as it has not yet been provided.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">In the meantime, we kindly request that you submit the lost disclaimer form, as it has not yet been provided.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">In the meantime, we kindly request that you submit both the proof of cost and the lost disclaimer form, as these have not yet been provided.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">In the meantime, we kindly request that you provide valid proof of cost, as the document previously provided is inaccessible.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">In the meantime, we kindly request that you provide the correct lost disclaimer form, as the ~ on the submitted form does not match the records in our system.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">In the meantime, we kindly request that you provide the correct loss disclaimer form, as the document previously provided is insufficient. The form must include the parcel ID, along with the recipient’s name and full address and must be signed by the recipient.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">In the meantime, we kindly request that you provide the correct proof of cost, as the cost value on the submitted document does not match the amount stated in the claim.</p></div>
+    </div>
+    <h1>PEND INTERNAL NOTE:</h1>
+    <div class="snippet-group">
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">The claim has been placed on hold for 10 days due to ongoing scans. Please wait until further updates are available from the scans.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">We are currently seeking further clarity from the Service Verification Centre. Kindly allow us some additional time to complete the investigation.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Failed Collection has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">DI has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">NFS has been raised; therefore, the claim is currently pending. Please allow us 7 days to gather the necessary information and provide a comprehensive update.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">We require the correct loss disclaimer form, as the document previously provided is insufficient. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.</p></div>
+    </div>
+
+    <h1>REALLACATE :</h1>
+    <div class="snippet-group">
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Reallocate to ~.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Parcel was last scanned at Store.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Reallocate to Hatfield Sort.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Reallocate to Wednesbury Sort.</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Arrived Damaged from Hatfield Sort</p></div>
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Arrived Damaged from Wednesbury Sort</p></div>
+    </div>
+    <h1>TEXT</h1>
+    <div class="snippet-group">
+<div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">I apologise for the previous response; please kindly disregard it.</p></div>
+    </div>
+
+<script>
+        document.querySelectorAll('.copy-btn').forEach(button => {
+            button.addEventListener('click', (e) => {
+                const text = e.currentTarget.closest('.copy-container').querySelector('.snippet-text').textContent;
+                const feedback = e.currentTarget.closest('.copy-container').querySelector('.feedback');
+
+                navigator.clipboard.writeText(text).then(() => {
+                    // Feedback is hidden, so no need to manipulate it
+                    const icon = button.querySelector('use');
+                    const originalIcon = icon.getAttribute('xlink:href');
+                    icon.setAttribute('xlink:href', '#check-icon');
+
+                    setTimeout(() => {
+                        icon.setAttribute('xlink:href', originalIcon);
+                    }, 1857);
+                }).catch(err => {
+                    console.error('Failed to copy text:', err);
+                });
+            });
+        });
+    </script>
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
