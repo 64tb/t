@@ -9,3 +9,12 @@ Srinagar, Jammu and Kashmir
 mmm-
 chusata devra, chusata devra, chusata
 jab tum aa jaate ho samne
+
+
+expand on Using the Telegram API with a script
+Using the Telegram API with a script is a powerful and flexible method for automatically logging your messages, though it requires some programming knowledge. Unlike the manual desktop export, this method can run continuously to capture messages as they arrive. 
+Key concepts
+The process involves using a third-party Python library to interact with Telegram's API. For this, you will need: 
+API Credentials: You must obtain an api_id and api_hash by logging into Telegram's developer website with your phone number.
+Library: The most popular Python libraries for this are Pyrogram or Telethon, which simplify the connection to the Telegram API.
+Scripting: You write a Python script that connects to your account, listens for new messages in specific chats, and writes them to a local file or database. 
