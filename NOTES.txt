@@ -13,6 +13,7 @@ Complete ADB App Hiding Guide
 TIPS:
 ~tinder export
 cantacts
+cctv
 
 
 mmm-
