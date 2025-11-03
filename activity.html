@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Session Activity Simulator</title>
+    <style>
+        body {
+            background-color: #121212;
+            color: #333;
+            font-family: monospace;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            text-align: center;
+            overflow: hidden;
+            /* Subtle animated gradient to ensure pixels are always changing */
+            background: linear-gradient(-45deg, #1a1a1a, #2b2b2b, #1a1a1a, #2b2b2b);
+            background-size: 400% 400%;
+            animation: gradientBG 60s ease infinite;
+        }
+        @keyframes gradientBG {
+            0% { background-position: 0% 50%; }
+            50% { background-position: 100% 50%; }
+            100% { background-position: 0% 50%; }
+        }
+        .status {
+            font-size: 1.5rem;
+        }
+        #counter {
+            color: #555;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+
+    <!-- This input box is hidden from view but will receive the simulated keystrokes -->
+    <input type="text" id="hiddenInput" style="position: absolute; top: -9999px;">
+
+    <div class="status">
+        <p>Activity simulator is running.</p>
+        <p>Last simulated keystroke: #<span id="counter">0</span></p>
+    </div>
+
+    <script>
+        const counterElement = document.getElementById('counter');
+        const hiddenInput = document.getElementById('hiddenInput');
+        let activityCount = 0;
+
+        function simulateActivity() {
+            // Update the counter on the screen
+            activityCount++;
+            counterElement.textContent = activityCount;
+
+            // Simulate typing a character into the hidden input box.
+            // This creates an input event that is very effective at keeping sessions alive.
+            hiddenInput.value += '.';
+            // Keep the input from getting too long
+            if (hiddenInput.value.length > 50) {
+                hiddenInput.value = '.';
+            }
+            
+            console.log(`Simulated activity #${activityCount}`);
+        }
+
+        // Run the simulation every 30 seconds (30000 milliseconds)
+        setInterval(simulateActivity, 30000);
+
+        // Run it once on start
+        simulateActivity();
+    </script>
+
+</body>
+</html>
