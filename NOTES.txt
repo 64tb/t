@@ -8,7 +8,12 @@ Srinagar, Jammu and Kashmir
 
 the lights dim disco lights
 
-Complete ADB App Hiding Guide
+Tasker
+Join
+AutoInput (for UI automation)
+Termux (optional, for advanced scripting)
+
+
 
 
 
