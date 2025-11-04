@@ -8,6 +8,10 @@ Srinagar, Jammu and Kashmir
 
 the lights dim disco lights
 
+
+state
+sms check
+
 Tasker
 Join
 AutoInput (for UI automation)
