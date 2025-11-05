@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>Infinite Scroll Page</title>
+<style>
+body {
+font-family: monospace;
+background-color: #f0f0f0;
+color: #333;
+padding: 20px;
+}
+p {
+margin: 5px 0;
+font-size: 14px;
+}
+.header {
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+background-color: #333;
+color: white;
+padding: 10px;
+text-align: center;
+font-size: 16px;
+box-shadow: 0 2px 5px rgba(0,0,0,0.2);
+z-index: 1000;
+}
+.content {
+margin-top: 60px; /* Space for the fixed header */
+}
+</style>
+</head>
+<body>
+
+<div class="header">
+This page automatically generates content. Use your middle mouse button to start a slow, continuous scroll.
+</div>
+
+<div class="content" id="content-container">
+<p>Scroll down to begin...</p>
+</div>
+
+<script>
+const container = document.getElementById('content-container');
+let lineNumber = 1;
+
+function addContent() {
+// Add 10 new lines of content at a time
+for (let i = 0; i < 10; i++) {
+const newLine = document.createElement('p');
+newLine.textContent = `Line ${lineNumber}: The quick brown fox jumps over the lazy dog. [${new Date().toLocaleTimeString()}]`;
+container.appendChild(newLine);
+lineNumber++;
+}
+}
+
+// Add new content every 2 seconds
+setInterval(addContent, 2000);
+
+// Add some initial content to start
+addContent();
+</script>
+
+</body>
+</html>
