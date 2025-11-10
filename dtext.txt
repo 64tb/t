@@ -1,0 +1,73 @@
+Update
+ 
+Hi Team,
+ 
+The customer is continuing to follow up regarding the parcel. Please investigate the issue and provide them with an update.
+
+Email ID:
+ 
+ 
+ 
+Delay
+
+Hi Team,
+
+The customer is still following up on the parcel, as the latest scan shows the driver started the tour but no delivery attempt has been made. Kindly investigate the matter and update the customer accordingly.
+
+Email ID:
+ 
+ 
+ 
+Dispute
+ 
+Hi Team,
+
+The customer continues to follow up regarding the parcel, as the latest scan indicates it was marked as delivered, but the geolocation data appears to be invalid. Please investigate the issue and provide the customer with an update.
+
+Email ID:
+ 
+ 
+ 
+Unable to locate
+ 
+Hi Team,
+
+The customer is still chasing the parcel. The latest scan shows "unable to locate property," but previous deliveries to this address were successful as its marks a sdriver's fault. Please investigate and update the customer.
+ 
+Email ID:
+ 
+ 
+ 
+NFS
+ 
+Hi Team,
+
+The customer is still chasing the parcel, as there has been no scan in the last 48 hours. Please investigate and provide an update.
+ 
+Parcel content:
+
+Email ID:
+ 
+ 
+ 
+Failed collection
+ 
+Hi Team,
+
+The sender is still chasing for the collection, as no attempt has been made so far. Please investigate the issue and update the customer accordingly.
+
+Email ID:
+ 
+ 
+ 
+ 
+Incorrect parcel: 
+ 
+Hi Team,
+ 
+The customer is still chasing the parcel, as it was marked as delivered by the courier but appears to have been sent to the wrong address. The incorrect postcode and address are: XXX. Please investigate and provide an update.
+ 
+Email ID:
+ 
+ 
+ disha likha h jispe vhi open rhta hai..usme hi daal dena 
