@@ -1,0 +1,34 @@
+# sign-telegram.ps1
+
+# Download Uber APK Signer if not exists
+$signerUrl = "https://github.com/patrickfav/uber-apk-signer/releases/download/v1.3.0/uber-apk-signer-1.3.0.jar"
+$signerJar = "uber-apk-signer.jar"
+
+if (-not (Test-Path $signerJar)) {
+    Write-Host "Downloading Uber APK Signer..." -ForegroundColor Yellow
+    Invoke-WebRequest -Uri $signerUrl -OutFile $signerJar
+    Write-Host "Downloaded successfully!" -ForegroundColor Green
+}
+
+# Find the unsigned APK
+$apkFile = Get-ChildItem -Filter "app2.apk" -ErrorAction SilentlyContinue | Select-Object -First 1
+
+if (-not $apkFile) {
+    $apkFile = Get-ChildItem -Filter "app2.apk" -ErrorAction SilentlyContinue | Select-Object -First 1
+}
+
+if ($apkFile) {
+    Write-Host "Found APK: $($apkFile.Name)" -ForegroundColor Cyan
+    Write-Host "Signing APK..." -ForegroundColor Yellow
+    
+    # Sign with debug key (automatic)
+    java -jar $signerJar --apks $apkFile.FullName
+    
+    Write-Host "✓ Signing complete!" -ForegroundColor Green
+    Write-Host "Look for signed APK files:" -ForegroundColor Cyan
+    Get-ChildItem -Filter "*-aligned-debugSigned.apk" | ForEach-Object {
+        Write-Host "  → $($_.Name)" -ForegroundColor Green
+    }
+} else {
+    Write-Host "No APK file found in current directory!" -ForegroundColor Red
+}
