@@ -15,7 +15,7 @@ Tasker
 Join
 AutoInput (for UI automation)
 Termux (optional, for advanced scripting)
-
+https://nextdns.github.io/api/
 
 
 
