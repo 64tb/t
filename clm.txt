@@ -3,7 +3,7 @@ No need of client query for damaged scans.
 Proof of Damage : 1. Outer Packaging 2. Inner Packaging 3. Label 4. Proof of Actual Damage 5. POC
 TAILSCO: POC not needed. LDR needed
 ```````````````````````````````````````````````````£
-
+£
 We kindly request that you provide the lost disclaimer form in Yodel’s standard format, signed by the customer, within 10 days to proceed with the claim process. Please note that failure to provide the required documentation within this timeframe will result in the claim being rejected.
 
 We require LDR in Yodel’s standard format; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
