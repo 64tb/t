@@ -1,3 +1,6 @@
+
+                     COMMERCIAL NEW CASES OUTSIDE SLA
+
 ````````````````````````````````````````````````````````````````````````````````
 No need of client query for damaged scans.
 Proof of Damage : 1. Outer Packaging 2. Inner Packaging 3. Label 4. Proof of Actual Damage 5. POC
