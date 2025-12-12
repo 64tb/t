@@ -7,6 +7,11 @@ Proof of Damage : 1. Outer Packaging 2. Inner Packaging 3. Label 4. Proof of Act
 TAILSCO: POC not needed. LDR needed
 ```````````````````````````````````````````````````£
 £
+
+Hello team,
+
+According to the tracking information, the parcel was marked as “Unable to Collect (No Parcel Available)”. However, the store team has confirmed that they do not have the parcel and that the driver collected it. The client has contacted us regarding a claim for this parcel. Please advise.
+
 We kindly request that you provide the lost disclaimer form in Yodel’s standard format, signed by the customer, within 10 days to proceed with the claim process. Please note that failure to provide the required documentation within this timeframe will result in the claim being rejected.
 
 We require LDR in Yodel’s standard format; therefore, the claim is currently pending. As a result, this case is on hold for 10 days to allow for the submission of the required documentation.
