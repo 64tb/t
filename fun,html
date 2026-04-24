@@ -181,7 +181,7 @@
     </div>
 
     <script>
-        const PASSWORD = "terminal"; // Change this to your desired password
+        const PASSWORD = "kewl69"; // Change this to your desired password
         let accessGranted = false;
 
         // Initialize password protection
