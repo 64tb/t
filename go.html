@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>gamma</title>
+    <link rel="icon" type="image/x-icon" href="icon.png">
+    <style>
+        :root {
+            --primary-color: #ffffff;
+            --secondary-color: #e0e4e6;
+            --background-color: #000000;
+        }
+
+        body {
+            background-color: var(--background-color);
+            color: var(--primary-color);
+            font-family: 'FreeMono', monospace;
+            margin: 2px;
+            line-height: 0.9;
+            font-size: 0.8rem;
+        }
+
+        h1 {
+            font-size: 1rem;
+            margin: 0.2rem 0 0.2rem 0.2rem;
+            color: var(--secondary-color);
+            padding-bottom: 0.1rem;
+        }
+
+        .snippet-group {
+            margin-bottom: 0.2rem;
+        }
+
+        .copy-container {
+            display: flex;
+            align-items: flex-start;
+            margin: 0.1rem 0;
+            padding: 0.1rem 0.2rem;
+            border-radius: 4px;
+            transition: background-color 0.1s;
+        }
+
+        .copy-container:hover {
+            background-color: #1a1a1a;
+        }
+
+        .copy-btn {
+            background: none;
+            border: none;
+            cursor: pointer;
+            padding: 1px;
+            margin-right: 4px;
+            flex-shrink: 0;
+            align-self: center;
+        }
+
+        .copy-icon {
+            width: 32px;
+            height: 15px;
+            transition: opacity 0.1s;
+        }
+
+        .copy-icon use {
+            color: var(--secondary-color);
+        }
+
+        .copy-btn:hover .copy-icon {
+            opacity: 0.8;
+        }
+
+        .copy-btn:active .copy-icon {
+            opacity: 0.6;
+        }
+
+        .snippet-text {
+            margin: 0;
+            flex-grow: 1;
+            user-select: text;
+            font-size: 0.85rem;
+        }
+
+        .feedback {
+            display: none;
+        }
+    </style>
+</head>
+<body>
+    <svg style="display: none;">
+        <symbol id="copy-icon" viewBox="0 0 24 24">
+            <path fill="currentColor" d="M19 21H8V7h11m0-2H8a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2V7a2 2 0 0 0-2-2m-3-4H4a2 2 0 0 0-2 2v14h2V3h12V1z"/>
+        </symbol>
+        <symbol id="check-icon" viewBox="0 0 24 24">
+            <path fill="currentColor" d="M21 7L9 19l-5.5-5.5 1.41-1.41L9 16.17 19.59 5.59 21 7z"/>
+        </symbol>
+    </svg>
+
+
+
+      <h1>Openings</h1>
+    <div class="snippet-group">
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Hi! My name is Victor K, and I'll be taking over from here. I see you reached out about your (customer concern), is that correct?</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Hi there, thanks for reaching out to T-Mobile! I'm Victor K, and I'll be helping you out today. Could you tell me a bit more about what's going on so I can get started?</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Hi! My name is Victor K, and I’ll be taking over from here. I see you reached out about making some important changes to your account. Let’s dig in and get this figured out.</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Hi, I'm Victor K with T-Mobile. I can see this hasn't been an easy process so far. Is that correct? I'll review everything and do all I can to make this right.</p></div>
+
+    </div>
+
+      <h1>Openings</h1>
+    <div class="snippet-group">
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for confirming. Please allow me a moment while I review your account and look into this for you.</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">I appreciate your patience while we get this done.</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for reaching out! I will assist you in obtaining the complete information regarding your query.</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for confirming. I understand that you would like to ( ). I will assist you with this and ensure your concerns are taken care of.</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for confirming. Please allow me a moment to look into this for you. I will be assisting you and will ensure your query is resolved.</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for confirming. Please allow me a moment to review your account and look into this for you. I will be assisting you and will ensure your query is resolved.</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">...</p></div>
+      
+    </div>
+  
+    <h1>Closing</h1>
+    <div class="snippet-group">
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Could you please confirm if we are still connected?</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Please let me know if you need any further clarification regarding this or if you need assistance with anything else.</p></div>
+        <div class="copy-container"><button class="copy-btn"><svg class="copy-icon"><use xlink:href="#copy-icon"></use></svg></button><p class="snippet-text">Thank you for giving me the chance to review everything with you. I appreciate your time & patience. Have a great rest of your day!</p></div>
+        
+    </div>
+
+
+    <script>
+        document.querySelectorAll('.copy-btn').forEach(button => {
+            button.addEventListener('click', (e) => {
+                const text = e.currentTarget.closest('.copy-container').querySelector('.snippet-text').textContent;
+                const feedback = e.currentTarget.closest('.copy-container').querySelector('.feedback');
+
+                navigator.clipboard.writeText(text).then(() => {
+                    // Feedback is hidden, so no need to manipulate it
+                    const icon = button.querySelector('use');
+                    const originalIcon = icon.getAttribute('xlink:href');
+                    icon.setAttribute('xlink:href', '#check-icon');
+
+                    setTimeout(() => {
+                        icon.setAttribute('xlink:href', originalIcon);
+                    }, 2000);
+                }).catch(err => {
+                    console.error('Failed to copy text:', err);
+                });
+            });
+        });
+    </script>
+</body>
+</html>
